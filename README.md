@@ -49,11 +49,11 @@ I build fast, scalable and user-centered web experiences with clean architecture
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=abdullahalsiam-bd&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=abdullahalsiam-bd&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=abdullahalsiam-bd&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdullahalsiam-bd&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
