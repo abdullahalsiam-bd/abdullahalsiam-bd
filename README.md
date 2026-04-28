@@ -1,99 +1,112 @@
-<h1 align="center">Hi 👋, I'm Abdullah Al Siam</h1>
-<h3 align="center">Frontend Developer & UI Designer from Bangladesh 🇧🇩</h3>
-
+<!-- 🔥 Banner -->
 <p align="center">
-I craft modern, responsive, and user-focused digital experiences with clean code and strong design thinking.
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Abdullah%20Al%20Siam&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20%7C%20UI%20Designer&descAlignY=55&descSize=18" />
 </p>
 
----
-
-## 🚀 About Me
-
-- 🎯 Frontend-focused developer with UI/UX design expertise  
-- 🌍 Based in Dhaka, Bangladesh  
-- 💡 I love building clean, scalable & user-friendly interfaces  
-- ⚡ Combining design thinking + development for impactful products  
-- 🎯 Currently focused on real-world projects & performance optimization  
-
----
-
-## 🧠 Tech Stack
-
-### 💻 Frontend Development
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-### ⚙️ Frameworks & Tools
-![React](https://img.shields.io/badge/React-%2320232A?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### 🎨 Design Tools
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/AdobeXD-%23FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-%231c1c1c?style=for-the-badge&logo=adobe-photoshop&logoColor=blue)
-
-### 🛠 Tools & Workflow
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VSCode-%23007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-<a href="https://www.behance.net/abdullahalsiam_bd" target="blank">Behance</a> •
-<a href="https://www.linkedin.com" target="blank">LinkedIn</a> •
-<a href="https://www.instagram.com" target="blank">Instagram</a>
+<!-- 🔥 Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Abdullah+Al+Siam;Frontend+Developer+%26+UI+Designer;Building+Modern+Web+Experiences;Clean+Code+%7C+Smart+Design+%7C+Real+Impact" />
 </p>
 
----
-
-## 📊 GitHub Stats
+<h3 align="center">Frontend Developer • UI Designer • Problem Solver</h3>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=abdullahalsiam-bd&show_icons=true&theme=tokyonight&hide_border=true" />
+Building modern, scalable and user-focused digital experiences with clean code and strong design thinking.
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahalsiam-bd&theme=tokyonight&hide_border=true" />
+🌐 <a href="https://abdullahalsiam.bd">Portfolio</a> • 
+💼 <a href="https://www.linkedin.com">LinkedIn</a> • 
+📸 <a href="https://www.instagram.com">Instagram</a>
+</p>
+
+---
+
+## 🧠 About Me
+
+I am a frontend-focused developer with a strong design background, combining UI/UX thinking with modern development to build high-quality digital products.
+
+I focus on performance, clean architecture, and real-world usability — not just visuals.
+
+Currently working on scalable frontend systems and improving user experience for production-level applications.
+
+---
+
+## ⚡ Tech Stack
+
+### 💻 Frontend
+![HTML](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript)
+
+### ⚙️ Frameworks & Libraries
+![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=nextdotjs)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-0d1117?style=for-the-badge&logo=tailwindcss)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-0d1117?style=for-the-badge&logo=bootstrap)
+
+### 🔥 Backend / Services
+![Firebase](https://img.shields.io/badge/Firebase-0d1117?style=for-the-badge&logo=firebase)
+
+### 🎨 Design
+![Figma](https://img.shields.io/badge/Figma-0d1117?style=for-the-badge&logo=figma)
+![Adobe XD](https://img.shields.io/badge/AdobeXD-0d1117?style=for-the-badge&logo=adobexd)
+![Photoshop](https://img.shields.io/badge/Photoshop-0d1117?style=for-the-badge&logo=adobephotoshop)
+
+### 🛠 Workflow & Tools
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VSCode-0d1117?style=for-the-badge&logo=visualstudiocode)
+![Vercel](https://img.shields.io/badge/Vercel-0d1117?style=for-the-badge&logo=vercel)
+
+---
+
+## 📊 Live GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdullahalsiam-bd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahalsiam-bd&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=abdullahalsiam-bd&theme=tokyonight&hide_border=true&background=0d1117" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahalsiam-bd&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 </p>
 
 ---
 
-## 📌 Featured Projects
+## ⚙️ Contribution Graph (Auto Updated)
 
-- 🚀 Portfolio Website  
-- 🛒 E-commerce UI System  
-- 📊 Dashboard Design System  
-- 🤖 Discord Moderation Bot  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdullahalsiam-bd&theme=tokyo-night&hide_border=true&bg_color=0d1117" />
+</p>
 
 ---
 
-## 💬 Let's Work Together
+## 🚀 Focus Areas
 
-I’m open to freelance work, collaborations, and exciting opportunities.
+- Scalable frontend architecture  
+- UI/UX-driven development  
+- Performance optimization  
+- Real-world product systems  
 
-📩 Email: abdullah.al.siam.bd@gmail.com  
+---
+
+## 💬 Contact
+
+📩 Email: your-email@gmail.com  
 
 ---
 
 ## ☕ Support Me
 
-If you like my work, consider supporting me ❤️  
-
-<p align="left">
 <a href="#">Buy Me a Coffee</a>
-</p>
 
 ---
 
-<p align="center">✨ Built with passion by Abdullah Al Siam</p>
+<p align="center">
+⚡ Designed & Built by Abdullah Al Siam
+</p>
