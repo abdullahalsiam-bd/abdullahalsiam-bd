@@ -1,4 +1,4 @@
-<!-- 🔥 Short Typing Animation (Fast & Clean) -->
+<!-- 🔥 Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=Abdullah+Al+Siam;Frontend+Developer;UI+Designer" />
 </p>
@@ -7,16 +7,19 @@
 
 <p align="center">
 🌐 <a href="https://abdullahalsiam.bd">Portfolio</a> • 
-💼 <a href="https://www.linkedin.com">LinkedIn</a> • 
-📸 <a href="https://www.instagram.com">Instagram</a>
+💼 <a href="https://linkedin.com/in/abdullahalsiam">LinkedIn</a> • 
+📸 <a href="https://instagram.com/abdullahalsiam.ig">Instagram</a>
 </p>
 
 ---
 
-## 🧠 About
+## 🧠 About Me
 
 Frontend-focused developer with strong UI/UX thinking.  
-I build fast, scalable and user-centered web experiences with clean architecture.
+Based in Dhaka, Bangladesh 🇧🇩  
+
+I build clean, responsive, and user-centered web interfaces.  
+Focused on performance, scalability, and real-world usability.
 
 ---
 
@@ -29,9 +32,8 @@ I build fast, scalable and user-centered web experiences with clean architecture
 ![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript)
 
 ### ⚙️ Frameworks
-![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=nextdotjs)
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-0d1117?style=for-the-badge&logo=tailwindcss)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-0d1117?style=for-the-badge&logo=bootstrap)
 
 ### 🔥 Services
 ![Firebase](https://img.shields.io/badge/Firebase-0d1117?style=for-the-badge&logo=firebase)
@@ -42,6 +44,7 @@ I build fast, scalable and user-centered web experiences with clean architecture
 ### 🛠 Tools
 ![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VSCode-0d1117?style=for-the-badge&logo=visualstudiocode)
 ![Vercel](https://img.shields.io/badge/Vercel-0d1117?style=for-the-badge&logo=vercel)
 
 ---
@@ -67,3 +70,9 @@ I build fast, scalable and user-centered web experiences with clean architecture
 ## ☕ Support
 
 <a href="#">Buy Me a Coffee</a>
+
+---
+
+<p align="center">
+⚡ Designed & Built by Abdullah Al Siam
+</p>
