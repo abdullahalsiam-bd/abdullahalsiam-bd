@@ -1,12 +1,38 @@
-# 👋 Hi, I'm Abdullah Al Siam
+from pathlib import Path
 
-### Creative Designer · Frontend Developer · Founder of Graphic X
+readme = r'''<div align="center">
 
-I'm a design-focused frontend developer based in **Dhaka, Bangladesh 🇧🇩**, with a strong background in **UI/UX, visual design, and digital experiences**.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:24104f,100:6C3BFF&height=220&section=header&text=Abdullah%20Al%20Siam&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Creative%20Designer%20%7C%20Frontend%20Developer%20%7C%20Founder%20of%20Graphic%20X&descAlignY=58&descSize=16&animation=twinkling" width="100%"/>
 
-I enjoy turning ideas into **clean, responsive, intuitive, and visually refined digital products**.
+<br>
 
-My edge is where **design thinking meets frontend development** — I care about how something looks, how it works, and how people experience it.
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=700&lines=Design+%2B+Technology+%3D+My+Creative+Space;I+Design+Digital+Experiences.;I+Build+Clean+%26+Responsive+Interfaces.;Founder+of+Graphic+X.;Turning+Ideas+Into+Digital+Experiences." />
+
+<br><br>
+
+<a href="https://abdullahalsiam.bd">
+<img src="https://img.shields.io/badge/%E2%86%92%20PORTFOLIO-ffffff?style=for-the-badge&logoColor=black" />
+</a>
+&nbsp;
+<a href="https://graphicx.studio/">
+<img src="https://img.shields.io/badge/%E2%86%92%20GRAPHIC%20X-6C3BFF?style=for-the-badge&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+## 👋 About Me
+
+I'm **Abdullah Al Siam** — a creative designer and frontend-focused developer based in **Dhaka, Bangladesh 🇧🇩**.
+
+I work at the intersection of **design, technology, and digital experiences**.
+
+I enjoy turning ideas into interfaces that are:
+
+`Clean` · `Responsive` · `Intuitive` · `Purposeful`
+
+My strongest advantage is combining **design thinking with frontend development**.
 
 > **Design with intention. Build with purpose.**
 
@@ -27,73 +53,96 @@ I enjoy working on projects where **design, technology, and user experience come
 
 ## 🏢 Founder — Graphic X
 
-I'm the **Founder of Graphic X**, a creative and digital design studio focused on building meaningful visual identities and digital experiences.
+<div align="center">
 
-🔗 **Graphic X:** https://graphicx.studio/
+### Graphic X
 
 **Design × Technology × Strategy**
 
+A creative and digital design studio focused on building meaningful  
+visual identities and digital experiences.
+
+<br>
+
+<a href="https://graphicx.studio/">
+<img src="https://img.shields.io/badge/EXPLORE%20GRAPHIC%20X-6C3BFF?style=for-the-badge&logoColor=white" />
+</a>
+
+</div>
+
 ---
 
-## 🛠️ Tech & Creative Stack
+## ⚡ My Creative Stack
 
 ### 💻 Development
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+<div align="center">
 
-### 🎨 UI / UX & Design
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,bootstrap,nodejs,nextjs,react,git,github,vscode&perline=6" />
 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe_XD-470137?style=flat-square&logo=adobexd&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-000000?style=flat-square&logo=framer&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
+</div>
 
-### 🗄️ Database & Cloud
+### 🎨 Design
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+<div align="center">
 
-### 🔧 Tools
+<img src="https://skillicons.dev/icons?i=figma,ps,ai,xd,canva,framer&perline=6" />
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+</div>
+
+### ☁️ Database & Cloud
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,aws,gcp&perline=6" />
+
+</div>
 
 ---
 
-## 🧠 My Approach
+## 🧠 How I Think
 
-I don't see **design and development as two separate things**.
+<div align="center">
 
-A strong digital product needs:
+### Design is not decoration.
 
-**Good Visual Direction**  
-+  
-**Thoughtful User Experience**  
-+  
-**Clean Implementation**
+### It's communication.
 
-That's where I enjoy working.
+<br>
+
+**Understand → Design → Build → Refine**
+
+</div>
+
+I don't see design and development as completely separate disciplines.
+
+A good digital experience needs:
+
+**Visual Direction**  
+×  
+**User Experience**  
+×  
+**Technical Execution**
+
+That's the space I enjoy working in.
 
 ---
 
-## 📌 Areas I Focus On
+## 🚀 What I'm Building
 
 ```text
-01 — UI / UX Design
-02 — Frontend Development
-03 — Digital Product Design
-04 — Website Design
-05 — Brand & Visual Systems
-06 — Creative Technology
+┌────────────────────────────────────────────────────┐
+│                                                    │
+│   PERSONAL BRAND                                   │
+│   ─────────────                                    │
+│   Building a stronger professional presence        │
+│                                                    │
+│   GRAPHIC X                                        │
+│   ────────                                         │
+│   Building a creative & digital design studio      │
+│                                                    │
+│   DIGITAL EXPERIENCES                              │
+│   ─────────────────                                │
+│   Designing interfaces that people enjoy using     │
+│                                                    │
+└────────────────────────────────────────────────────┘
