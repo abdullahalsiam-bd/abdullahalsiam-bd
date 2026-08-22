@@ -1,60 +1,66 @@
-from pathlib import Path
 
-readme = """<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,55:171126,100:6C3BFF&height=210&section=header&text=Abdullah%20Al%20Siam&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=Creative%20Developer%20%C2%B7%20UI%2FUX%20Designer%20%C2%B7%20Founder%20of%20Graphic%20X&descAlignY=62&descSize=15&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,55:171126,100:6C3BFF&height=210&section=header&text=Abdullah%20Al%20Siam&fontSize=48&fontColor=FFFFFF&fontAlignY=40&desc=Frontend%20Developer%20%C2%B7%20UI%2FUX%20Designer%20%C2%B7%20Creative%20Technologist&descAlignY=62&descSize=15&animation=twinkling" width="100%" alt="Abdullah Al Siam" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=19&duration=2600&pause=1000&color=9F7AEA&center=true&vCenter=true&width=650&lines=Designing+interfaces.;Building+digital+experiences.;Turning+ideas+into+clean+frontend.;Design+%2B+Code+%3D+My+Space." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=900&color=A78BFA&center=true&vCenter=true&width=700&lines=Design+%E2%86%92+Build+%E2%86%92+Refine;Frontend+with+a+designer%27s+eye.;Building+thoughtful+digital+experiences.;Clean+interfaces.+Purposeful+experiences." width="100%" alt="Animated introduction" />
 
 <br><br>
 
 <a href="https://abdullahalsiam.bd">
-<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white" />
+<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF" alt="Portfolio" />
 </a>
 <a href="https://linkedin.com/in/abdullahalsiam">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn" />
 </a>
-<a href="https://graphicx.studio/">
-<img src="https://img.shields.io/badge/Graphic%20X-6C3BFF?style=for-the-badge&logoColor=white" />
+<a href="https://instagram.com/abdullahalsiam.ig">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=FFFFFF" alt="Instagram" />
 </a>
 
 </div>
 
 ---
 
-## 👋 Hi, I'm Abdullah
+## 👋 Hi, I'm Abdullah Al Siam
 
-I'm **Abdullah Al Siam**, a **Creative Developer & UI/UX Designer** based in **Dhaka, Bangladesh 🇧🇩**.
+**Frontend Developer · UI/UX Designer · Creative Technologist**
 
-I work at the intersection of **design and frontend development**, creating clean, responsive, and purposeful digital experiences.
+Based in **Dhaka, Bangladesh 🇧🇩**, I work at the intersection of **design and frontend development**.
 
-> **Think clearly. Design intentionally. Build precisely.**
+I build responsive, refined, and user-focused digital experiences with attention to **interface quality, usability, and clean implementation**.
+
+> **Design with intention. Develop with clarity.**
 
 ---
 
-## 🎨 Design & Development
+## ⚡ What I Do
 
 <div align="center">
 
-| 🎨 Design | 💻 Development | 🧩 Experience |
+| 🎨 **UI / UX** | 💻 **Frontend** | 🧩 **Digital Experience** |
 |:---:|:---:|:---:|
-| UI / UX | Frontend | Interaction |
-| Wireframing | Responsive Web | Design Systems |
-| Prototyping | Modern Interfaces | Visual Direction |
+| Interface Design | Responsive Web | Interaction |
+| Wireframing | Modern UI | Design Systems |
+| Prototyping | Frontend Development | Visual Direction |
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technology
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap&perline=8" />
+### Frontend
 
-<br><br>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap&perline=8" alt="Frontend technologies" />
 
-<img src="https://skillicons.dev/icons?i=figma,ps,ai,framer,git,github,vscode&perline=7" />
+### Design
+
+<img src="https://skillicons.dev/icons?i=figma,ps,ai,xd,framer&perline=5" alt="Design tools" />
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,nodejs,mongodb,mysql&perline=6" alt="Development tools" />
 
 </div>
 
@@ -64,96 +70,26 @@ I work at the intersection of **design and frontend development**, creating clea
 
 <div align="center">
 
-**💡 Idea** → **🎨 Design** → **💻 Build** → **✨ Refine**
-
-</div>
-
-I focus on the details that make an interface feel complete:
-
-`Clarity` · `Typography` · `Spacing` · `Interaction` · `Responsiveness` · `Performance`
-
----
-
-## 🏢 Founder — Graphic X
-
-I'm the **Founder of Graphic X**, a creative and digital design studio exploring the space between:
-
-**Design × Technology × Strategy**
-
-🌐 https://graphicx.studio/
-
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=abdullahalsiam-bd&theme=dark&hide_border=true" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahalsiam-bd&theme=transparent&hide_border=true&layout=compact&langs_count=6" width="38%" />
-
-</div>
-
----
-
-## 🐍 Contributions
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/abdullahalsiam-bd/abdullahalsiam-bd/output/github-contribution-grid-snake-dark.svg" width="90%" />
-
-</div>
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-**Have an idea, project, or collaboration in mind?**
-
-<br>
-
-<a href="mailto:hello@abdullahalsiam.bd">
-<img src="https://img.shields.io/badge/✉%20Start%20a%20Conversation-FFFFFF?style=for-the-badge&labelColor=111111" />
-</a>
+**💡 IDEA** → **🎨 DESIGN** → **💻 BUILD** → **✨ REFINE**
 
 <br><br>
 
-<a href="https://abdullahalsiam.bd">🌐 Portfolio</a>
-&nbsp; · &nbsp;
-<a href="https://linkedin.com/in/abdullahalsiam">💼 LinkedIn</a>
-&nbsp; · &nbsp;
-<a href="https://behance.net/abdullahalsiam_bd">🎨 Behance</a>
-&nbsp; · &nbsp;
-<a href="https://instagram.com/abdullahalsiam.ig">📷 Instagram</a>
-
-<br><br>
-
-📍 **Dhaka, Bangladesh**
+<sub>Understand → Explore → Design → Develop → Refine</sub>
 
 </div>
+
+I focus on the details that make an interface feel professional:
+
+`Hierarchy` · `Typography` · `Spacing` · `Interaction` · `Responsiveness` · `Performance`
 
 ---
 
-<div align="center">
+## 📌 Professional Focus
 
-### `Design × Code × Curiosity`
-
-**Abdullah Al Siam**  
-<sub>Creative Developer · UI/UX Designer · Founder — Graphic X</sub>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=abdullahalsiam-bd&style=flat-square&color=6C3BFF&label=PROFILE+VIEWS" />
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C3BFF,55:171126,100:050505&height=90&section=footer&animation=twinkling" width="100%"/>
-
-</div>
-"""
-
-path = Path("/mnt/data/README.md")
-path.write_text(readme, encoding="utf-8")
-print("Clean README.md created:", path)
+```text
+Frontend Development
+UI / UX Design
+Responsive Web Interfaces
+Design Systems
+Digital Product Experiences
+Creative Technology
