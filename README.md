@@ -24,21 +24,19 @@ readme = """<div align="center">
 
 ## 👋 Hi, I'm Abdullah
 
-I'm a **Creative Developer & UI/UX Designer** based in **Dhaka, Bangladesh 🇧🇩**.
+I'm **Abdullah Al Siam**, a **Creative Developer & UI/UX Designer** based in **Dhaka, Bangladesh 🇧🇩**.
 
 I work at the intersection of **design and frontend development**, creating clean, responsive, and purposeful digital experiences.
-
-My approach is simple:
 
 > **Think clearly. Design intentionally. Build precisely.**
 
 ---
 
-## ✦ What I Do
+## 🎨 Design & Development
 
 <div align="center">
 
-| 🎨 **Design** | 💻 **Development** | 🧠 **Experience** |
+| 🎨 Design | 💻 Development | 🧩 Experience |
 |:---:|:---:|:---:|
 | UI / UX | Frontend | Interaction |
 | Wireframing | Responsive Web | Design Systems |
@@ -48,7 +46,7 @@ My approach is simple:
 
 ---
 
-## 🛠️ Core Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -66,11 +64,11 @@ My approach is simple:
 
 <div align="center">
 
-**💡 IDEA** &nbsp; → &nbsp; **🎨 DESIGN** &nbsp; → &nbsp; **💻 BUILD** &nbsp; → &nbsp; **✨ REFINE**
+**💡 Idea** → **🎨 Design** → **💻 Build** → **✨ Refine**
 
 </div>
 
-I care about the details that make a digital product feel complete:
+I focus on the details that make an interface feel complete:
 
 `Clarity` · `Typography` · `Spacing` · `Interaction` · `Responsiveness` · `Performance`
 
@@ -98,7 +96,7 @@ I'm the **Founder of Graphic X**, a creative and digital design studio exploring
 
 ---
 
-## 🐍 Contribution Journey
+## 🐍 Contributions
 
 <div align="center">
 
@@ -117,7 +115,7 @@ I'm the **Founder of Graphic X**, a creative and digital design studio exploring
 <br>
 
 <a href="mailto:hello@abdullahalsiam.bd">
-<img src="https://img.shields.io/badge/✉%20Start%20a%20Conversation-FFFFFF?style=for-the-badge&labelColor=111111&logoColor=black" />
+<img src="https://img.shields.io/badge/✉%20Start%20a%20Conversation-FFFFFF?style=for-the-badge&labelColor=111111" />
 </a>
 
 <br><br>
@@ -140,7 +138,7 @@ I'm the **Founder of Graphic X**, a creative and digital design studio exploring
 
 <div align="center">
 
-### <code>Design × Code × Curiosity</code>
+### `Design × Code × Curiosity`
 
 **Abdullah Al Siam**  
 <sub>Creative Developer · UI/UX Designer · Founder — Graphic X</sub>
@@ -149,55 +147,13 @@ I'm the **Founder of Graphic X**, a creative and digital design studio exploring
 
 <img src="https://komarev.com/ghpvc/?username=abdullahalsiam-bd&style=flat-square&color=6C3BFF&label=PROFILE+VIEWS" />
 
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C3BFF,55:171126,100:050505&height=90&section=footer&animation=twinkling" width="100%"/>
+
 </div>
 """
 
 path = Path("/mnt/data/README.md")
 path.write_text(readme, encoding="utf-8")
-
-print("Created clean README.md")
-print("No Python wrapper code was included.")
-from pathlib import Path
-
-readme = r'''<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,55:171126,100:6C3BFF&height=210&section=header&text=Abdullah%20Al%20Siam&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=Creative%20Developer%20%C2%B7%20UI%2FUX%20Designer%20%C2%B7%20Founder%20of%20Graphic%20X&descAlignY=62&descSize=15&animation=twinkling" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=19&duration=2600&pause=1000&color=9F7AEA&center=true&vCenter=true&width=650&lines=Designing+interfaces.;Building+digital+experiences.;Turning+ideas+into+clean+frontend.;Design+%2B+Code+%3D+My+Space." />
-
-<br><br>
-
-<a href="https://abdullahalsiam.bd">Portfolio</a>
-&nbsp; · &nbsp;
-<a href="https://linkedin.com/in/abdullahalsiam">LinkedIn</a>
-&nbsp; · &nbsp;
-<a href="https://graphicx.studio/">Graphic X</a>
-
-</div>
-
----
-
-## 👋 Hi, I'm Abdullah
-
-I'm a **creative developer and UI/UX designer** from **Dhaka, Bangladesh 🇧🇩**.
-
-I enjoy working where **design meets code** — creating interfaces that look intentional, feel natural, and work well.
-
-> **I design the experience, then build it.**
-
----
-
-## ⚡ What I Work With
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,git,github,vscode,figma&perline=11" />
-
-</div>
-
----
-
-## 🧠 My Approach
-
-```text
-IDEA  →  DESIGN  →  BUILD  →  REFINE
+print("Clean README.md created:", path)
