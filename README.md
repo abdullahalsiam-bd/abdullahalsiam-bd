@@ -1,7 +1,3 @@
-from pathlib import Path
-
-readme = r'''<div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:24104f,100:6C3BFF&height=220&section=header&text=Abdullah%20Al%20Siam&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Creative%20Designer%20%7C%20Frontend%20Developer%20%7C%20Founder%20of%20Graphic%20X&descAlignY=58&descSize=16&animation=twinkling" width="100%"/>
 
 <br>
