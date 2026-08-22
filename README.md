@@ -12,9 +12,6 @@
 <a href="https://linkedin.com/in/abdullahalsiam">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn" />
 </a>
-<a href="https://instagram.com/abdullahalsiam.ig">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=FFFFFF" alt="Instagram" />
-</a>
 
 </div>
 
